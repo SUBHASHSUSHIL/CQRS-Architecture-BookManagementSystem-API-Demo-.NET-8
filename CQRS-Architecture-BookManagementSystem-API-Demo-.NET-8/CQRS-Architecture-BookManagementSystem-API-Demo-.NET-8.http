@@ -1,0 +1,6 @@
+@CQRS_Architecture_BookManagementSystem_API_Demo_.NET_8_HostAddress = http://localhost:5273
+
+GET {{CQRS_Architecture_BookManagementSystem_API_Demo_.NET_8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
