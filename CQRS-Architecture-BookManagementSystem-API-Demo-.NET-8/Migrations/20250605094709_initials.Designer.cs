@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CQRS_Architecture_BookManagementSystem_API_Demo_.NET_8.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250605055530_initials")]
+    [Migration("20250605094709_initials")]
     partial class initials
     {
         /// <inheritdoc />
