@@ -14,6 +14,7 @@ namespace BookManagementSystem.Core.Models
         public Guid BookId { get; set; }
         public Book Book { get; set; }
         public DateTime AddedOn { get; set; } = DateTime.UtcNow;
+
         public bool IsDeleted { get; set; }
     }
 }
